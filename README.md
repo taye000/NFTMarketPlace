@@ -1,2 +1,2 @@
 # NFTMarketPlace
-An NFT market place on polygon
+An NFT market place on polygon blockchain
